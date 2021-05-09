@@ -7,7 +7,7 @@ Cloudinary is a SaaS solution that allows users to manage photos and videos. Thi
 To get started, you'll first need to create a Cloudinary account by going here: https://cloudinary.com 
 Then, install the project's dependencies by running `mvn install` in the root directory, and start the program by running the `main` method inside `Main.java`.
 
-## Features
+### Features
 - Upload an image
 - Query an image by it's title (public_id)
 - View all images
