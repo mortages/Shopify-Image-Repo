@@ -1,0 +1,3 @@
+services/CloudinaryImageRepositoryTest.class
+models/ImageModelTest.class
+views/MainMenuViewTest.class

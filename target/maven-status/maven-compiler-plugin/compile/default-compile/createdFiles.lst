@@ -1,0 +1,10 @@
+Main.class
+views/LoginView.class
+services/CloudinaryImageRepository.class
+presenters/MainMenuPresenter.class
+presenters/LoginPresenter.class
+services/ImageRepositoryService.class
+views/MainMenuView.class
+controllers/LoginController.class
+controllers/MainMenuController.class
+models/ImageModel.class
