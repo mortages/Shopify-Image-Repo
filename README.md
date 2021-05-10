@@ -13,4 +13,12 @@ Then, install the project's dependencies by running `mvn install` in the root di
 - View all images
 - Delete an image by it's title (public_id)
 
+### Demo
+The following video walks you through the application. The link expires on June 9, 2021. Feel free to contact me for another demo :) 
+Note: I didn't demo logging-in in order to ensure the privacy of my API Key & API Secret.
+
+
+
+https://user-images.githubusercontent.com/33576622/117591318-09f47a00-b102-11eb-960f-ba4a56bcaabf.mp4
+
 
