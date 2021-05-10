@@ -1,4 +1,4 @@
-# Fall 2021 - Shopify Developer Intern Challenge
+# A CLI for Cloudinary
 
 ### Overview 
 Cloudinary is a SaaS solution that allows users to manage photos and videos. This project creates a command-line interface that allows you to upload, view, and delete images from your Cloudinary image repository. 
