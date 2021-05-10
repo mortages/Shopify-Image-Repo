@@ -16,6 +16,7 @@ Then, install the project's dependencies by running `mvn install` in the root di
 
 ### Demo
 The following video walks you through the application's main functionality. 
+
 Note: I didn't demo logging-in in order to ensure the privacy of my API Key & API Secret.
 
 
